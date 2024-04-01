@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PsiOffice.TreatmentAPI", "P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PsiOffice.PacientAPI", "PsiOffice.PacientAPI\PsiOffice.PacientAPI.csproj", "{C1B80B9B-D69D-469A-B4F7-55B0261F712C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PsiOffice.FinancialMovimentAPI", "PsiOffice.FinancialMovimentAPI\PsiOffice.FinancialMovimentAPI.csproj", "{FD414647-E671-4349-9791-6706A5FC813C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{C1B80B9B-D69D-469A-B4F7-55B0261F712C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1B80B9B-D69D-469A-B4F7-55B0261F712C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1B80B9B-D69D-469A-B4F7-55B0261F712C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD414647-E671-4349-9791-6706A5FC813C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD414647-E671-4349-9791-6706A5FC813C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD414647-E671-4349-9791-6706A5FC813C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD414647-E671-4349-9791-6706A5FC813C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
