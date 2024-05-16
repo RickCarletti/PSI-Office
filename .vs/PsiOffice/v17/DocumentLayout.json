@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ricardo\\Downloads\\dotnet6-estudando\\PsiOffice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD5917F-030D-4740-BA74-F188E70E10F6}|PsiOffice.TypeAPI\\PsiOffice.TypeAPI.csproj|c:\\users\\ricardo\\downloads\\dotnet6-estudando\\psioffice\\psioffice.typeapi\\data\\valueobjects\\treatmenttypevo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD5917F-030D-4740-BA74-F188E70E10F6}|PsiOffice.TypeAPI\\PsiOffice.TypeAPI.csproj|solutionrelative:psioffice.typeapi\\data\\valueobjects\\treatmenttypevo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD5917F-030D-4740-BA74-F188E70E10F6}|PsiOffice.TypeAPI\\PsiOffice.TypeAPI.csproj|c:\\users\\ricardo\\downloads\\dotnet6-estudando\\psioffice\\psioffice.typeapi\\repository\\sessiontyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD5917F-030D-4740-BA74-F188E70E10F6}|PsiOffice.TypeAPI\\PsiOffice.TypeAPI.csproj|solutionrelative:psioffice.typeapi\\repository\\sessiontyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD5917F-030D-4740-BA74-F188E70E10F6}|PsiOffice.TypeAPI\\PsiOffice.TypeAPI.csproj|c:\\users\\ricardo\\downloads\\dotnet6-estudando\\psioffice\\psioffice.typeapi\\model\\treatment_type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD5917F-030D-4740-BA74-F188E70E10F6}|PsiOffice.TypeAPI\\PsiOffice.TypeAPI.csproj|solutionrelative:psioffice.typeapi\\model\\treatment_type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD5917F-030D-4740-BA74-F188E70E10F6}|PsiOffice.TypeAPI\\PsiOffice.TypeAPI.csproj|c:\\users\\ricardo\\downloads\\dotnet6-estudando\\psioffice\\psioffice.typeapi\\config\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD5917F-030D-4740-BA74-F188E70E10F6}|PsiOffice.TypeAPI\\PsiOffice.TypeAPI.csproj|solutionrelative:psioffice.typeapi\\config\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD5917F-030D-4740-BA74-F188E70E10F6}|PsiOffice.TypeAPI\\PsiOffice.TypeAPI.csproj|c:\\users\\ricardo\\downloads\\dotnet6-estudando\\psioffice\\psioffice.typeapi\\repository\\treatmenttyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD5917F-030D-4740-BA74-F188E70E10F6}|PsiOffice.TypeAPI\\PsiOffice.TypeAPI.csproj|solutionrelative:psioffice.typeapi\\repository\\treatmenttyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD5917F-030D-4740-BA74-F188E70E10F6}|PsiOffice.TypeAPI\\PsiOffice.TypeAPI.csproj|c:\\users\\ricardo\\downloads\\dotnet6-estudando\\psioffice\\psioffice.typeapi\\repository\\interfaces\\itreatmenttyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD5917F-030D-4740-BA74-F188E70E10F6}|PsiOffice.TypeAPI\\PsiOffice.TypeAPI.csproj|solutionrelative:psioffice.typeapi\\repository\\interfaces\\itreatmenttyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD5917F-030D-4740-BA74-F188E70E10F6}|PsiOffice.TypeAPI\\PsiOffice.TypeAPI.csproj|c:\\users\\ricardo\\downloads\\dotnet6-estudando\\psioffice\\psioffice.typeapi\\model\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD5917F-030D-4740-BA74-F188E70E10F6}|PsiOffice.TypeAPI\\PsiOffice.TypeAPI.csproj|solutionrelative:psioffice.typeapi\\model\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD5917F-030D-4740-BA74-F188E70E10F6}|PsiOffice.TypeAPI\\PsiOffice.TypeAPI.csproj|c:\\users\\ricardo\\downloads\\dotnet6-estudando\\psioffice\\psioffice.typeapi\\model\\session_type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD5917F-030D-4740-BA74-F188E70E10F6}|PsiOffice.TypeAPI\\PsiOffice.TypeAPI.csproj|solutionrelative:psioffice.typeapi\\model\\session_type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD5917F-030D-4740-BA74-F188E70E10F6}|PsiOffice.TypeAPI\\PsiOffice.TypeAPI.csproj|c:\\users\\ricardo\\downloads\\dotnet6-estudando\\psioffice\\psioffice.typeapi\\data\\valueobjects\\sessiontypevo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD5917F-030D-4740-BA74-F188E70E10F6}|PsiOffice.TypeAPI\\PsiOffice.TypeAPI.csproj|solutionrelative:psioffice.typeapi\\data\\valueobjects\\sessiontypevo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SessionTypeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ricardo\\Downloads\\dotnet6-estudando\\PsiOffice\\PsiOffice.TypeAPI\\Repository\\SessionTypeRepository.cs",
+              "RelativeDocumentMoniker": "PsiOffice.TypeAPI\\Repository\\SessionTypeRepository.cs",
+              "ToolTip": "C:\\Users\\Ricardo\\Downloads\\dotnet6-estudando\\PsiOffice\\PsiOffice.TypeAPI\\Repository\\SessionTypeRepository.cs",
+              "RelativeToolTip": "PsiOffice.TypeAPI\\Repository\\SessionTypeRepository.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T23:10:10.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MappingConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Ricardo\\Downloads\\dotnet6-estudando\\PsiOffice\\PsiOffice.TypeAPI\\Config\\MappingConfig.cs",
+              "RelativeDocumentMoniker": "PsiOffice.TypeAPI\\Config\\MappingConfig.cs",
+              "ToolTip": "C:\\Users\\Ricardo\\Downloads\\dotnet6-estudando\\PsiOffice\\PsiOffice.TypeAPI\\Config\\MappingConfig.cs",
+              "RelativeToolTip": "PsiOffice.TypeAPI\\Config\\MappingConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T23:09:20.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TreatmentTypeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ricardo\\Downloads\\dotnet6-estudando\\PsiOffice\\PsiOffice.TypeAPI\\Repository\\TreatmentTypeRepository.cs",
+              "RelativeDocumentMoniker": "PsiOffice.TypeAPI\\Repository\\TreatmentTypeRepository.cs",
+              "ToolTip": "C:\\Users\\Ricardo\\Downloads\\dotnet6-estudando\\PsiOffice\\PsiOffice.TypeAPI\\Repository\\TreatmentTypeRepository.cs",
+              "RelativeToolTip": "PsiOffice.TypeAPI\\Repository\\TreatmentTypeRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T23:08:20.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITreatmentTypeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ricardo\\Downloads\\dotnet6-estudando\\PsiOffice\\PsiOffice.TypeAPI\\Repository\\Interfaces\\ITreatmentTypeRepository.cs",
+              "RelativeDocumentMoniker": "PsiOffice.TypeAPI\\Repository\\Interfaces\\ITreatmentTypeRepository.cs",
+              "ToolTip": "C:\\Users\\Ricardo\\Downloads\\dotnet6-estudando\\PsiOffice\\PsiOffice.TypeAPI\\Repository\\Interfaces\\ITreatmentTypeRepository.cs",
+              "RelativeToolTip": "PsiOffice.TypeAPI\\Repository\\Interfaces\\ITreatmentTypeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T23:08:02.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Treatment_Type.cs",
+              "DocumentMoniker": "C:\\Users\\Ricardo\\Downloads\\dotnet6-estudando\\PsiOffice\\PsiOffice.TypeAPI\\Model\\Treatment_Type.cs",
+              "RelativeDocumentMoniker": "PsiOffice.TypeAPI\\Model\\Treatment_Type.cs",
+              "ToolTip": "C:\\Users\\Ricardo\\Downloads\\dotnet6-estudando\\PsiOffice\\PsiOffice.TypeAPI\\Model\\Treatment_Type.cs",
+              "RelativeToolTip": "PsiOffice.TypeAPI\\Model\\Treatment_Type.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T23:07:51.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Ricardo\\Downloads\\dotnet6-estudando\\PsiOffice\\PsiOffice.TypeAPI\\Model\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "PsiOffice.TypeAPI\\Model\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Ricardo\\Downloads\\dotnet6-estudando\\PsiOffice\\PsiOffice.TypeAPI\\Model\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "PsiOffice.TypeAPI\\Model\\Base\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T23:07:45.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Session_Type.cs",
+              "DocumentMoniker": "C:\\Users\\Ricardo\\Downloads\\dotnet6-estudando\\PsiOffice\\PsiOffice.TypeAPI\\Model\\Session_Type.cs",
+              "RelativeDocumentMoniker": "PsiOffice.TypeAPI\\Model\\Session_Type.cs",
+              "ToolTip": "C:\\Users\\Ricardo\\Downloads\\dotnet6-estudando\\PsiOffice\\PsiOffice.TypeAPI\\Model\\Session_Type.cs",
+              "RelativeToolTip": "PsiOffice.TypeAPI\\Model\\Session_Type.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T23:07:30.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TreatmentTypeVO.cs",
+              "DocumentMoniker": "C:\\Users\\Ricardo\\Downloads\\dotnet6-estudando\\PsiOffice\\PsiOffice.TypeAPI\\Data\\ValueObjects\\TreatmentTypeVO.cs",
+              "RelativeDocumentMoniker": "PsiOffice.TypeAPI\\Data\\ValueObjects\\TreatmentTypeVO.cs",
+              "ToolTip": "C:\\Users\\Ricardo\\Downloads\\dotnet6-estudando\\PsiOffice\\PsiOffice.TypeAPI\\Data\\ValueObjects\\TreatmentTypeVO.cs",
+              "RelativeToolTip": "PsiOffice.TypeAPI\\Data\\ValueObjects\\TreatmentTypeVO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T23:07:16.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SessionTypeVO.cs",
+              "DocumentMoniker": "C:\\Users\\Ricardo\\Downloads\\dotnet6-estudando\\PsiOffice\\PsiOffice.TypeAPI\\Data\\ValueObjects\\SessionTypeVO.cs",
+              "RelativeDocumentMoniker": "PsiOffice.TypeAPI\\Data\\ValueObjects\\SessionTypeVO.cs",
+              "ToolTip": "C:\\Users\\Ricardo\\Downloads\\dotnet6-estudando\\PsiOffice\\PsiOffice.TypeAPI\\Data\\ValueObjects\\SessionTypeVO.cs",
+              "RelativeToolTip": "PsiOffice.TypeAPI\\Data\\ValueObjects\\SessionTypeVO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T23:01:15.05Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
